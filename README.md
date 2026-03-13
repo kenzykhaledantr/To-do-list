@@ -14,8 +14,6 @@ A simple and clean To-Do List application to help you manage your daily tasks.
 ```
 2. Open the project folder
 3. Run the app
-## preview
-
 
 
 
